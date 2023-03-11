@@ -419,10 +419,26 @@ body {
   .bike__column {
     margin-bottom: 30px;
   }
+  .bike__column-slider {
+    max-width: 100%;
+    margin-left: 0;
+  }
 }
 @media (max-width: 991px) {
   .menu {
     margin-right: 0;
+  }
+}
+@media (max-width: 670px) {
+  .bike__title {
+    font-size: 44px;
+    line-height: 57px;
+    margin: 30px 0 5px;
+  }
+  .bike__subtitle {
+    margin: 0 0 30px;
+    font-size: 22px;
+    line-height: 29px;
   }
 }
 @media (max-width: 640px) {
