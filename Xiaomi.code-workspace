@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Xiaomi",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Xiaomi"
+  }
+}
